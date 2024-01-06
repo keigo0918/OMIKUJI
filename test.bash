@@ -3,10 +3,10 @@
 #SPDX-License-Identifier: BSD-3-Clause
 
 out=$python3 program.py
-おみくじを引きます
+[ "${out}"= "おみくじを引きます
 ガラ･･･
 ガラ･･･
 ガラ･･･
 ＿人人人人人人人人人＿
 ＞       大吉       ＜
-￣Y^Y^Y^Y^Y^Y^Y^Y^Y￣
+￣Y^Y^Y^Y^Y^Y^Y^Y^Y￣" ] || ng{LINENO}
