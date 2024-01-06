@@ -3,7 +3,7 @@
 #SPDX-License-Identifier: BSD-3-Clause
 
 out=$python3 program.py
-[ "${out}"= "おみくじを引きます
+[ "${out}" = "おみくじを引きます
 ガラ･･･
 ガラ･･･
 ガラ･･･
