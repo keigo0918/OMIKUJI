@@ -28,12 +28,12 @@ This repository was created to make it easy to make fortune drawings anywhere.
  ￣Y^Y^Y^Y^Y^Y^Y^Y^Y￣
 ```
 
-## Test environment
+## Compatible environments
 
-* Python
+* Python 3.8.10
 
-* Ubuntu 20.04
-
+* Ubuntu 20.04.6 LTS
+  
 ## Lisence
  
 * This software package is licensed for redistribution and use under the 3-clause BSD License.
