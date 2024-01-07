@@ -2,11 +2,11 @@
 
 # OMIKUJI
 
-This repository was created to make it easy to make fortune drawings anywhere.
+This repository was created to make it easy to do fortune telling anywhere.
 
 ## Image or Gif
 
-* "Omikuji" is generally used　in Japan since ancient times to tell the fortune of an individual or good fortune.
+* "Omikuji" is generally used in Japan since ancient times to tell the fortune of an individual or good fortune.
 
 * In order of good fortune, they are arranged in the order od　大吉・吉・中吉・小吉・末吉・凶・大凶
 
