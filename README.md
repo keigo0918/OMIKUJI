@@ -14,17 +14,11 @@ This repository was created to make it easy to make fortune drawings anywhere.
 
 ```
 おみくじを引きます
-
  ガラ･･･
-
  ガラ･･･
-
  ガラ･･･
-
  ＿人人人人人人人人人＿
-
       ＞ 小吉 ＜
-
  ￣Y^Y^Y^Y^Y^Y^Y^Y^Y￣
 ```
 
