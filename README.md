@@ -24,7 +24,7 @@ This repository was created to make it easy to make fortune drawings anywhere.
 
 * Python
 
-*Ubuntu 20.04
+* Ubuntu 20.04
 
 ## Lisence
  
