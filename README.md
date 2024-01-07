@@ -1,3 +1,5 @@
+[![test](https://github.com/kig-s3293/OMIKUJI/actions/workflows/test.yml/badge.svg)](https://github.com/kig-s3293/OMIKUJI/actions/workflows/test.yml)
+
 # OMIKUJI
 
 This repository was created to make it easy to make fortune drawings anywhere.
@@ -8,7 +10,7 @@ This repository was created to make it easy to make fortune drawings anywhere.
 
 * In order of good fortune, they are arranged in the order od　大吉・吉・中吉・小吉・末吉・凶・大凶
 
-## Execution example
+## Execution
 
 おみくじを引きます
  ガラ･･･
@@ -20,6 +22,9 @@ This repository was created to make it easy to make fortune drawings anywhere.
 
 ## Test environment
 
+* Python
+
+*Ubuntu 20.04
 
 ## Lisence
  
