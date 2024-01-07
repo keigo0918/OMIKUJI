@@ -4,11 +4,17 @@
 
 This repository was created to make it easy to make fortune drawings anywhere.
 
-## Outline
+## Image o Gif
 
 * "Omikuji" is generally used　in Japan since ancient times to tell the fortune of an individual or good fortune.
 
 * In order of good fortune, they are arranged in the order od　大吉・吉・中吉・小吉・末吉・凶・大凶
+
+## Outline
+
+* It uses seven types of lotteries that actually exist.
+
+* A sense of realism is created by deliberately leaving a gap of one second.
 
 ## Execution
 
