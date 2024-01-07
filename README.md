@@ -4,7 +4,7 @@
 
 This repository was created to make it easy to make fortune drawings anywhere.
 
-## Image o Gif
+## Image or Gif
 
 * "Omikuji" is generally used　in Japan since ancient times to tell the fortune of an individual or good fortune.
 
